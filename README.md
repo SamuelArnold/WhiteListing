@@ -2,21 +2,43 @@
 Created by Samuel Arnold  and Andrew Fauver
 
 
-Accomplished: 
+#Accomplished: 
 --- Nothing yet just started the projected ---
 
 
 
 
-###To Do: 
+#To Do: 
 
 Dynamic Whitelisting :
-  By Path
-  By Extension
-  Hash checking the program files
+       Read configurations
+       By Path
+       By Extension
+       Hash checking the program files
+       Password
+       Unlock/Lock mechinism
   
   
 Dynamic Policy 
-  Slider from Unsecure to Stig (Registry hacks)
-  Points to turn on and off
-  DOD secpol (turn on and off)
+        Read Configurations
+        Slider from Unsecure to Stig (Registry hacks)
+        Points to turn on and off
+        DOD secpol (turn on and off)
+ 
+ 
+ 
+ 
+  #Reading 
+ 
+  Securing Windows using Registry
+  https://technet.microsoft.com/en-us/library/bb457006.aspx
+  
+  #how to save keys
+  http://www.cplusplus.com/forum/windows/185592/
+  http://www.cplusplus.com/forum/windows/6186/
+  
+  #Inner Workings of Software Restriction Policy
+  http://softwarepolicy.sourceforge.net/manual/howitworks.php
+  
+  
+  
