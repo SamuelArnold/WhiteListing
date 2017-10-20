@@ -1,2 +1,3 @@
 ﻿  Whitelisting.cpp
-LINK : fatal error LNK1168: cannot open C:\Users\Sied Shoj\Documents\GitHub\WhiteListing\Whitelisting\Debug\Whitelisting.exe for writing
+c:\users\sied shoj\documents\github\whitelisting\whitelisting\whitelisting\whitelisting.cpp(21): warning C4101: 'i': unreferenced local variable
+  Whitelisting.vcxproj -> C:\Users\Sied Shoj\Documents\GitHub\WhiteListing\Whitelisting\Debug\Whitelisting.exe
