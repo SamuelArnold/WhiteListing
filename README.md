@@ -3,7 +3,7 @@ Created by Samuel Arnold  and Andrew Fauver
 
 
 #Accomplished: 
---- Nothing yet just started the projected ---
+        --- Nothing yet just started the projected ---
 
 
 
@@ -12,17 +12,17 @@ Created by Samuel Arnold  and Andrew Fauver
 
 #Dynamic Whitelisting :
 
-Read configurations
+        Read configurations
 
-By Path
+        By Path
 
-By Extension
+        By Extension
 
-Hash checking the program files
+        Hash checking the program files
 
-Password
+        Password
 
-Unlock/Lock mechinism
+        Unlock/Lock mechinism
   
   
 Dynamic Policy 
