@@ -1,5 +1,5 @@
 # Dynamic WhiteListing
-Created by Samuel Arnold  and Andrew Fauver
+Created by Samuel Arnold  and Andrew LeFevre
 
 
 #Accomplished: 
