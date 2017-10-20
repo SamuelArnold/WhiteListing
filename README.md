@@ -40,24 +40,24 @@ Dynamic Policy
  
   #Reading 
  
-  Securing Windows using Registry
+          Securing Windows using Registry
   
   
-  https://technet.microsoft.com/en-us/library/bb457006.aspx
+          https://technet.microsoft.com/en-us/library/bb457006.aspx
  
  
-  #how to save keys
+          #how to save keys
   
   
-  http://www.cplusplus.com/forum/windows/185592/
+          http://www.cplusplus.com/forum/windows/185592/
   
   
-  http://www.cplusplus.com/forum/windows/6186/
+          http://www.cplusplus.com/forum/windows/6186/
   
-  #Inner Workings of Software Restriction Policy
+          #Inner Workings of Software Restriction Policy
   
   
-  http://softwarepolicy.sourceforge.net/manual/howitworks.php
+          http://softwarepolicy.sourceforge.net/manual/howitworks.php
   
   
   
