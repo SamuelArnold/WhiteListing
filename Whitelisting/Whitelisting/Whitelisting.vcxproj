@@ -144,6 +144,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h" />
+    <ClInclude Include="STIGh.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="WinReg.hpp">
       <DeploymentContent>true</DeploymentContent>
