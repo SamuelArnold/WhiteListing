@@ -59,5 +59,5 @@ Dynamic Policy
   
           http://softwarepolicy.sourceforge.net/manual/howitworks.php
   
-  
-  
+        #More about Whitelisting
+         https://hackingandsecurity.blogspot.com/2016/08/?view=classic
