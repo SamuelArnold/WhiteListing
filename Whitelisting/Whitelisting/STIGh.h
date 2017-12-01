@@ -54,10 +54,10 @@ namespace saX
 				// Test if Test Values are reccommend
 				if (testStatus != testDw11)
 				{
-					wcout << L"\nStatus: OFF\n";
+					wcout << L"\nStatus: VULNERABLE\n";
 				}
 				else {
-					wcout << L"\nStatus: ON\n";
+					wcout << L"\nStatus: SECURE\n";
 					ScoreNumber += 1;
 					}
 				key.Close();
